@@ -3,4 +3,4 @@
 - 🌱 I’m skilled in TypeScript, React.js, Java, and Rust!
 - 💞️ I’m looking to collaborate on any Websites, Games, 3D Websites and Security Tools
 - 📫 How to reach me: stephen.lyons18@gmail.com
-- Check out my portfolio website: stephenlyons.dev
+- Check out my portfolio website: [stephenlyons.dev](https://stephenlyons.dev/)
