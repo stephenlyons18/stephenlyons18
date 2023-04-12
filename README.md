@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @stephenlyons18
-- 👀 I’m interested in AI, Cyber Security, and Web Development
-- 🌱 I’m currently learning Java, Python, React, and TypeScript
-- 💞️ I’m looking to collaborate on any game projects or cool problems
+- 👀 I’m interested in Artificial Intelligence, Cyber Security, and Web Development
+- 🌱 I’m skilled in TypeScript, React.js, Java, and Rust!
+- 💞️ I’m looking to collaborate on any Websites, Games, 3D Websites and Security Tools
 - 📫 How to reach me: stephen.lyons18@gmail.com
+- Check out my portfolio website: stephenlyons.dev
